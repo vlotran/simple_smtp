@@ -1,5 +1,0 @@
-X-Received-By: simple-smtp.py
-X-Mail-From: <me@example.com>
-X-Rcpt-To: <you@example.com>
-Subject: SMTP Lab Test
-Hello from netcat.
